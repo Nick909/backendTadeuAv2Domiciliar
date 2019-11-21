@@ -1,0 +1,7 @@
+{
+    "name": "API Exemplo",
+    "version": "1.0.0",
+    "deion": "Descrição da API",
+    "title": "Título principal",
+    "url" : "http://localhost:3333"
+}
